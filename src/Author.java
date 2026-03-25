@@ -38,4 +38,3 @@ public class Author {
         return name;
     }
 }
-7
